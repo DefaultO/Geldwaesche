@@ -5,4 +5,4 @@ So by causing a force disconnect by the game server, and not giving the client a
 
 What makes this so good is that there are no visible signs besides the Achievments that could tell that you did exploit this [game](https://gangster.goodgamestudios.com/). This makes the exploits based on this overlook - ghost features. Means there are no server-sided logs that tell your account is abnormal, neither is it obvious and you probably won't get banned using them (only manuals, and those probably won't happen).
 
-Because this Game stopped getting updates since 2017, officially stated by the Game Studio, this exploit will stay undetected and work for the rest of it's existence.
+Because this Game stopped getting updates since 2017, [officially stated by the Game Studio](https://goodgamestudios.com/de/blog/warum-goodgame-gangster-shadow-kings-co-keine-updates-erhalten/2016/07/05/), this exploit will stay undetected and work for the rest of it's existence. Because they literally don't touch the game anymore, just keep it running, because people keep paying into it.
