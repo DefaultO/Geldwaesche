@@ -1022,7 +1022,7 @@ DATA_TO_SEND";
                             if (account.Contains(server))
                             {
                                 forceDisconnectPacket = account;
-                                forceDisconnectPacket = Regex.Unescape(forceDisconnectPacket); // Very important!
+                                forceDisconnectPacket = Regex.Unescape(forceDisconnectPacket); // Very important! Windows is retarded and auto-escapes backslashes, which is critical in networking and made the exploit not work.
                             }
                         }
                         if (!string.IsNullOrEmpty(forceDisconnectPacket))
