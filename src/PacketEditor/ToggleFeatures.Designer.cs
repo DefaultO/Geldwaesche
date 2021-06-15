@@ -98,6 +98,7 @@ namespace PacketEditor
             // checkBox6
             // 
             this.checkBox6.AutoSize = true;
+            this.checkBox6.Enabled = false;
             this.checkBox6.Location = new System.Drawing.Point(12, 127);
             this.checkBox6.Name = "checkBox6";
             this.checkBox6.Size = new System.Drawing.Size(64, 17);
